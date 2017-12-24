@@ -27,18 +27,18 @@ loadDays(){
             } else {
  
                 this.adventDays = [
-                    {front: '14', unlockAt: 'December 14, 2017 00:00:00', flipped: false, content: 'A partridge in a pear tree'},
-                    {front: '15', unlockAt: 'December 15, 2017 00:00:00', flipped: false, content: 'Two turtle doves'},
-                    {front: '16', unlockAt: 'December 16, 2017 00:00:00', flipped: false, content: 'Three French hens'},
-                    {front: '17', unlockAt: 'December 17, 2017 00:00:00', flipped: false, content: 'Four calling birds'},
-                    {front: '18', unlockAt: 'December 18, 2017 00:00:00', flipped: false, content: 'Five golden rings!'},
-                    {front: '19', unlockAt: 'December 19, 2017 00:00:00', flipped: false, content: 'Six geese a laying'},
-                    {front: '20', unlockAt: 'December 20, 2017 00:00:00', flipped: false, content: 'Seven swans a swimming'},
-                    {front: '21', unlockAt: 'December 21, 2017 00:00:00', flipped: false, content: 'Eight maids a milking'},
-                    {front: '22', unlockAt: 'December 22, 2017 00:00:00', flipped: false, content: 'Nine ladies dancing'},
-                    {front: '23', unlockAt: 'December 23, 2017 00:00:00', flipped: false, content: 'Ten lords a leaping'},
-                    {front: '24', unlockAt: 'December 24, 2017 00:00:00', flipped: false, content: 'Eleven pipers piping'},
-                    {front: '25', unlockAt: 'December 25, 2017 00:00:00', flipped: false, content: '12 drummers drumming'}
+                    {front: '14', unlockAt: 'December 14, 2017 00:00:00', flipped: false, content: 'Callaté Ojo saltón!'},
+                    {front: '15', unlockAt: 'December 15, 2017 00:00:00', flipped: false, content: 'CaraTelevión!'},
+                    {front: '16', unlockAt: 'December 16, 2017 00:00:00', flipped: false, content: 'Culiflor....=)'},
+                    {front: '17', unlockAt: 'December 17, 2017 00:00:00', flipped: false, content: 'Eres un CAGATIÒ..'},
+                    {front: '18', unlockAt: 'December 18, 2017 00:00:00', flipped: false, content: 'Pis = ORO'},
+                    {front: '19', unlockAt: 'December 19, 2017 00:00:00', flipped: false, content: 'Groenladia = MAMALANDIA'},
+                    {front: '20', unlockAt: 'December 20, 2017 00:00:00', flipped: false, content: 'YA LO TENGO'},
+                    {front: '21', unlockAt: 'December 21, 2017 00:00:00', flipped: false, content: 'Mírate FEO'},
+                    {front: '22', unlockAt: 'December 22, 2017 00:00:00', flipped: false, content: 'Lloro por el futuro'},
+                    {front: '23', unlockAt: 'December 23, 2017 00:00:00', flipped: false, content: 'Gato con pontuflas'},
+                    {front: '24', unlockAt: 'December 24, 2017 00:00:00', flipped: false, content: 'Pato con Chanclas'},
+                    {front: '25', unlockAt: 'December 25, 2017 00:00:00', flipped: false, content: 'Efecto Invernadero = OSoS'}
                 ];
  
             }

@@ -1,8 +1,11 @@
 {
   "name": "jmCalAdve",
-  "app_id": "",
+  "app_id": "4321c398",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
   }
 }
+
+// git push --set-upstream origin master
+
